@@ -64,7 +64,8 @@ bash jupyter.sh
 ```
 Follow [Analyse_Logs.ipynb](./notebooks/Analyse_Logs.ipynb)
 
-![mAP](./notebooks/results.jpg)
+![mAP](./notebooks/bbox_mAP.jpg)
+![mAP](./notebooks/lr.jpg)
 
 ## Inference:
 Run the Jupyter notebook from the terminal, execute the `jupyter.sh` script:

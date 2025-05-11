@@ -78,11 +78,11 @@ Follow [Inference.ipynb](./notebooks/Inference.ipynb)
 ![Original Image](./notebooks/vis/orig/vid_000085_frame0000035.jpg)
 
 ### Inference Result:
-![Inference Results](./notebooks/vis/vid_000085_frame0000035.jpg
+![Inference Results](./notebooks/vis/vid_000085_frame0000035.jpg)
 
 ## Hugging Face Upload
 
-We shared the trained model on the Hugging Face Model Hub, making it easily accessible for developers ([here](https://huggingface.co/spaces/homai/PIDNet_Segmentation)). This allows for straightforward integration into applications and fine-tuning on custom datasets.
+We shared the trained model on the Hugging Face Model Hub, making it easily accessible for developers ([here](https://huggingface.co/spaces/homai/RTMDet_Instance_Segmentation)). This allows for straightforward integration into applications and fine-tuning on custom datasets.
 
 ## Tips
 Ensure that the `train.sh` and  `jupyter.sh` bash scripts has executable permissions. If not, grant execute permission by running `chmod u+x train.sh`.
